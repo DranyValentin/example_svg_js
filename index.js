@@ -25,7 +25,7 @@
 		
 		$text[21].setAttribute("dx", dxFactor++)
 		$text[21].setAttribute("opacity", opacityFactor -= 0.02)
-		console.log("Function dx worling")
+
 		setTimeout(dx, 15)
 	}
 
